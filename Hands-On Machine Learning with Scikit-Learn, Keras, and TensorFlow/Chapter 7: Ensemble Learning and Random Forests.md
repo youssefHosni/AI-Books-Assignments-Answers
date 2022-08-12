@@ -2,7 +2,7 @@
 
 ## Questions ##
 
-1. If you have trained five different models on the exact same training data, and they all achieve 95% precision, is there any chance that you can combine these models to get better results? If so, how? If not, why?
+[1. If you have trained five different models on the exact same training data, and they all achieve 95% precision, is there any chance that you can combine these models to get better results? If so, how? If not, why?](https://github.com/youssefHosni/AI-Books-Assignments-Answers/blob/main/Hands-On%20Machine%20Learning%20with%20Scikit-Learn,%20Keras,%20and%20TensorFlow/Chapter%207:%20Ensemble%20Learning%20and%20Random%20Forests.md#:~:text=1.%20If%20you%20have%20trained%20five%20different%20models%20on%20the%20exact%20same%20training%20data%2C%20and%20they%20all%20achieve%2095%25%20precision%2C%20is%20there%20any%20chance%20that%20you%20can%20combine%20these%20models%20to%20get%20better%20results%3F%20If%20so%2C%20how%3F%20If%20not%2C%20why%3F)
 
 2. What is the difference between hard and soft voting classifiers?
 
