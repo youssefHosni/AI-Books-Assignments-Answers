@@ -30,6 +30,7 @@ this new training set. Congratulations, you have just trained a blender, and tog
 **1. If you have trained five different models on the exact same training data, and they all achieve 95% precision, is there any chance that you can combine these models to get better results? If so, how? If not, why?**
 
 Answer:
+Yes, using ensamble method, in which you will train each model on the training data and use hard or soft (if possible depedning on the model used) voting to get the prediction. You can also train them using different subset of the data using bagging or pasting method.  
 
 **2. What is the difference between hard and soft voting classifiers?**
 
