@@ -9,7 +9,7 @@
 [3. Is it possible to speed up training of a bagging ensemble by distributing it across multiple servers? What about pasting ensembles, boosting ensembles, random
 forests, or stacking ensembles?](https://github.com/youssefHosni/AI-Books-Assignments-Answers/blob/main/Hands-On%20Machine%20Learning%20with%20Scikit-Learn,%20Keras,%20and%20TensorFlow/Chapter%207:%20Ensemble%20Learning%20and%20Random%20Forests.md#:~:text=3.%20Is%20it%20possible%20to%20speed%20up%20training%20of%20a%20bagging%20ensemble%20by%20distributing%20it%20across%20multiple%20servers%3F%20What%20about%20pasting%20ensembles%2C%20boosting%20ensembles%2C%20random%20forests%2C%20or%20stacking%20ensembles%3F)
 
-4. What is the benefit of out-of-bag evaluation?
+[4. What is the benefit of out-of-bag evaluation?](https://github.com/youssefHosni/AI-Books-Assignments-Answers/blob/main/Hands-On%20Machine%20Learning%20with%20Scikit-Learn,%20Keras,%20and%20TensorFlow/Chapter%207:%20Ensemble%20Learning%20and%20Random%20Forests.md#:~:text=4.%20What%20is%20the%20benefit%20of%20out%2Dof%2Dbag%20evaluation%3F)
 
 5. What makes Extra-Trees more random than regular Random Forests? How can this extra randomness help? Are Extra-Trees slower or faster than regular Random Forests?
 
@@ -49,7 +49,7 @@ Yes it is possible as in bagging the data is sampled with replacement so it is p
 **4. What is the benefit of out-of-bag evaluation?**
 
 Answer:
-
+The benfit of out-of-bag evaluation is that they evaluate the ensemble predictor without the need of having seperate dataset for this as each predictor will be trained on certain samples and can be evaluated with the rest.This will prevent information loss and provide more data for training and providing unbaised evaluation in the same time 
 
 **5. What makes Extra-Trees more random than regular Random Forests? How can this extra randomness help? Are Extra-Trees slower or faster than regular Random Forests?**
 Answer:
