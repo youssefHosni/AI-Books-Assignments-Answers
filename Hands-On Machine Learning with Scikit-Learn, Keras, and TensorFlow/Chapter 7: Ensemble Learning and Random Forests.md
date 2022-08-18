@@ -6,8 +6,8 @@
 
 [2. What is the difference between hard and soft voting classifiers?](https://github.com/youssefHosni/AI-Books-Assignments-Answers/blob/main/Hands-On%20Machine%20Learning%20with%20Scikit-Learn,%20Keras,%20and%20TensorFlow/Chapter%207:%20Ensemble%20Learning%20and%20Random%20Forests.md#:~:text=2.%20What%20is%20the%20difference%20between%20hard%20and%20soft%20voting%20classifiers%3F)
 
-3. Is it possible to speed up training of a bagging ensemble by distributing it across multiple servers? What about pasting ensembles, boosting ensembles, random
-forests, or stacking ensembles?
+[3. Is it possible to speed up training of a bagging ensemble by distributing it across multiple servers? What about pasting ensembles, boosting ensembles, random
+forests, or stacking ensembles?](https://github.com/youssefHosni/AI-Books-Assignments-Answers/blob/main/Hands-On%20Machine%20Learning%20with%20Scikit-Learn,%20Keras,%20and%20TensorFlow/Chapter%207:%20Ensemble%20Learning%20and%20Random%20Forests.md#:~:text=3.%20Is%20it%20possible%20to%20speed%20up%20training%20of%20a%20bagging%20ensemble%20by%20distributing%20it%20across%20multiple%20servers%3F%20What%20about%20pasting%20ensembles%2C%20boosting%20ensembles%2C%20random%20forests%2C%20or%20stacking%20ensembles%3F)
 
 4. What is the benefit of out-of-bag evaluation?
 
