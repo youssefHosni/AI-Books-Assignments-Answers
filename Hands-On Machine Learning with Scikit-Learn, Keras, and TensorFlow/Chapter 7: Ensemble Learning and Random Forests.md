@@ -4,7 +4,7 @@
 
 [1. If you have trained five different models on the exact same training data, and they all achieve 95% precision, is there any chance that you can combine these models to get better results? If so, how? If not, why?](https://github.com/youssefHosni/AI-Books-Assignments-Answers/blob/main/Hands-On%20Machine%20Learning%20with%20Scikit-Learn,%20Keras,%20and%20TensorFlow/Chapter%207:%20Ensemble%20Learning%20and%20Random%20Forests.md#:~:text=1.%20If%20you%20have%20trained%20five%20different%20models%20on%20the%20exact%20same%20training%20data%2C%20and%20they%20all%20achieve%2095%25%20precision%2C%20is%20there%20any%20chance%20that%20you%20can%20combine%20these%20models%20to%20get%20better%20results%3F%20If%20so%2C%20how%3F%20If%20not%2C%20why%3F)
 
-2. What is the difference between hard and soft voting classifiers?
+[2. What is the difference between hard and soft voting classifiers?](https://github.com/youssefHosni/AI-Books-Assignments-Answers/blob/main/Hands-On%20Machine%20Learning%20with%20Scikit-Learn,%20Keras,%20and%20TensorFlow/Chapter%207:%20Ensemble%20Learning%20and%20Random%20Forests.md#:~:text=2.%20What%20is%20the%20difference%20between%20hard%20and%20soft%20voting%20classifiers%3F)
 
 3. Is it possible to speed up training of a bagging ensemble by distributing it across multiple servers? What about pasting ensembles, boosting ensembles, random
 forests, or stacking ensembles?
