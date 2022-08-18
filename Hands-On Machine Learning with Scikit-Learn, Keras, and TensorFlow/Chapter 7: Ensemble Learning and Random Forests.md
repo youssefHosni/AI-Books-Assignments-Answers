@@ -44,7 +44,7 @@ In hard voting the class that get most of the votes will be selected, while in s
 forests, or stacking ensembles?**
 
 Answer:
-
+Yes it is possible as in bagging the data is sampled with replacement so it is possible to train multiple classifers on different samples in parallel. In pasting it can be also trained in parallel and also in random forests depedning how it will be ensambled. In boosting it can be parallelaizaed and the same for stacking ensambles. 
 
 **4. What is the benefit of out-of-bag evaluation?**
 
