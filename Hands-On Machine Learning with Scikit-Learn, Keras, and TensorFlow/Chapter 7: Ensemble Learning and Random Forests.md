@@ -54,6 +54,7 @@ The benfit of out-of-bag evaluation is that they evaluate the ensemble predictor
 **5. What makes Extra-Trees more random than regular Random Forests? How can this extra randomness help? Are Extra-Trees slower or faster than regular Random Forests?**
 
 Answer:
+Because not only the data is randomly sampled but also the thresholds used to split the data at each node is also sit randomly. This will make the model much faster as most of the training time goes to finding these thresholds. Also it results in a model with lower variacne but on the account of higer bias
 
 
 **6. If your AdaBoost ensemble underfits the training data, what hyperparameters should you tweak and how?**
