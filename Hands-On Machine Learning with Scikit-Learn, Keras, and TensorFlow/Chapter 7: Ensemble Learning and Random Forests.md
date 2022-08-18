@@ -11,7 +11,7 @@ forests, or stacking ensembles?](https://github.com/youssefHosni/AI-Books-Assign
 
 [4. What is the benefit of out-of-bag evaluation?](https://github.com/youssefHosni/AI-Books-Assignments-Answers/blob/main/Hands-On%20Machine%20Learning%20with%20Scikit-Learn,%20Keras,%20and%20TensorFlow/Chapter%207:%20Ensemble%20Learning%20and%20Random%20Forests.md#:~:text=4.%20What%20is%20the%20benefit%20of%20out%2Dof%2Dbag%20evaluation%3F)
 
-5. What makes Extra-Trees more random than regular Random Forests? How can this extra randomness help? Are Extra-Trees slower or faster than regular Random Forests?
+[5. What makes Extra-Trees more random than regular Random Forests? How can this extra randomness help? Are Extra-Trees slower or faster than regular Random Forests?](https://github.com/youssefHosni/AI-Books-Assignments-Answers/blob/main/Hands-On%20Machine%20Learning%20with%20Scikit-Learn,%20Keras,%20and%20TensorFlow/Chapter%207:%20Ensemble%20Learning%20and%20Random%20Forests.md#:~:text=5.%20What%20makes%20Extra%2DTrees%20more%20random%20than%20regular%20Random%20Forests%3F%20How%20can%20this%20extra%20randomness%20help%3F%20Are%20Extra%2DTrees%20slower%20or%20faster%20than%20regular%20Random%20Forests%3F)
 
 6. If your AdaBoost ensemble underfits the training data, what hyperparameters should you tweak and how?
 
@@ -52,6 +52,7 @@ Answer:
 The benfit of out-of-bag evaluation is that they evaluate the ensemble predictor without the need of having seperate dataset for this as each predictor will be trained on certain samples and can be evaluated with the rest.This will prevent information loss and provide more data for training and providing unbaised evaluation in the same time 
 
 **5. What makes Extra-Trees more random than regular Random Forests? How can this extra randomness help? Are Extra-Trees slower or faster than regular Random Forests?**
+
 Answer:
 
 
