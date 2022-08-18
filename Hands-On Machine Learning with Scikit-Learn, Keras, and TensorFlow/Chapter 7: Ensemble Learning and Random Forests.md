@@ -37,6 +37,8 @@ Yes, using ensamble method, in which you will train each model on the training d
 
 Answer:
 
+In hard voting the class that get most of the votes will be selected, while in soft voting the probability for each class is averaged throughout all the classifers in the ensemble learners and the class with the heighest probability will be selected. 
+
 
 **3. Is it possible to speed up training of a bagging ensemble by distributing it across multiple servers? What about pasting ensembles, boosting ensembles, random
 forests, or stacking ensembles?**
