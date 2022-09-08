@@ -30,35 +30,43 @@ algorithms such as PCA, LLE, or MDS and compare the resulting visualizations.]()
 ### Answers ###
 
 1. What are the main motivations for reducing a dataset’s dimensionality? What are the main drawbacks?
+
 Answer:
 
 2. What is the curse of dimensionality?
+
 Answer:
 
 
 
 3. Once a dataset’s dimensionality has been reduced, is it possible to reverse the operation? If so, how? If not, why?
+
 Answer:
 
 
 
 4. Can PCA be used to reduce the dimensionality of a highly nonlinear dataset?
+
 Answer:
 
 
 5. Suppose you perform PCA on a 1,000-dimensional dataset, setting the explained variance ratio to 95%. How many dimensions will the resulting dataset have?
+
 Answer:
 
 
 6. In what cases would you use vanilla PCA, Incremental PCA, Randomized PCA, or Kernel PCA?
+
 Answer:
 
 7. How can you evaluate the performance of a dimensionality reduction algorithm on your dataset?
+
 Answer:
 
 
 
 8. Does it make any sense to chain two different dimensionality reduction algorithms?
+
 Answer:
 
 
