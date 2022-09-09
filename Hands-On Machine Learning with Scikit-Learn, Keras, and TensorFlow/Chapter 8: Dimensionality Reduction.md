@@ -32,6 +32,14 @@ algorithms such as PCA, LLE, or MDS and compare the resulting visualizations.]()
 1. What are the main motivations for reducing a dataset’s dimensionality? What are the main drawbacks?
 
 Answer:
+* Increase the training speed or decrease the time complexity.
+* Remove the unneeded informatino which might affect the training and model performance which is known as the curise of dimensiionality 
+* To be able to visualize the data. 
+* Saving storage/meomery space. 
+Some of the drawbacks: 
+* Increase the machine learning pipeline complexity 
+* Depending on the training dataset size this might take alot of time and computation power
+* It is alawys diffuilt to explain the results with a transformed features. 
 
 2. What is the curse of dimensionality?
 
