@@ -47,17 +47,18 @@ Answer:
 
 Answer:
 
-Curse of dimensionality occurs when the data has large number of dimension and small data size so the distance between each instance will be large and therfore when a model is trained on this data it will be overfitted on the training data and if a new instance is added it will be probably away from the other instances and the moedl will not be able to predict its value or classify it right. 
+Curse of dimensionality occurs when the data has large number of dimension and small data size so the distance between each instance will be large and the data will be sparse. This will therfore will make the model diffuiclt to capture the pattern in the data a model is trained on this data. Also it increase the risk of  overfitted on the training data and if a new instance is added it will be probably away from the other instances and the moedl will not be able to predict its value or classify it right. 
 
 3. Once a dataset’s dimensionality has been reduced, is it possible to reverse the operation? If so, how? If not, why?
 
 Answer:
 
-
+It depends on the data itself and the way you applied the dimensionality reduction to it. For example PCA is used then we can revesre the data and obtain almost the data. However it is important to ensure that the data can not be obtained perfectly since part of the data will be lost during the transformation. This part depends on how many percentage did the chosen component did cover and the rest will be lost. 
 
 4. Can PCA be used to reduce the dimensionality of a highly nonlinear dataset?
 
 Answer:
+Yes using kernel PCA 
 
 
 5. Suppose you perform PCA on a 1,000-dimensional dataset, setting the explained variance ratio to 95%. How many dimensions will the resulting dataset have?
