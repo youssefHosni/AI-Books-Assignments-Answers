@@ -37,7 +37,8 @@ Answer:
 * To be able to visualize the data. 
 * Saving storage/meomery space. 
 
-Some of the drawbacks: 
+**Some of the drawbacks:** 
+
 * Increase the machine learning pipeline complexity 
 * Depending on the training dataset size this might take alot of time and computation power
 * It is alawys diffuilt to explain the results with a transformed features. 
