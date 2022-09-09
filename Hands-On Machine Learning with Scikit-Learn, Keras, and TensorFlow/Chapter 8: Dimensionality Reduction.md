@@ -36,6 +36,7 @@ Answer:
 * Remove the unneeded informatino which might affect the training and model performance which is known as the curise of dimensiionality 
 * To be able to visualize the data. 
 * Saving storage/meomery space. 
+
 Some of the drawbacks: 
 * Increase the machine learning pipeline complexity 
 * Depending on the training dataset size this might take alot of time and computation power
