@@ -47,7 +47,7 @@ Answer:
 
 Answer:
 
-
+Curse of dimensionality occurs when the data has large number of dimension and small data size so the distance between each instance will be large and therfore when a model is trained on this data it will be overfitted on the training data and if a new instance is added it will be probably away from the other instances and the moedl will not be able to predict its value or classify it right. 
 
 3. Once a dataset’s dimensionality has been reduced, is it possible to reverse the operation? If so, how? If not, why?
 
