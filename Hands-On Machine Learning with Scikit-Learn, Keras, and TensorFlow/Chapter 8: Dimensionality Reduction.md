@@ -69,7 +69,6 @@ It depends on the dataset itself.
 6. In what cases would you use vanilla PCA, Incremental PCA, Randomized PCA, or Kernel PCA?
 
 Answer:
-
 * vanilla PCA: The tradional PCA which is used if the data fit in the meomery and not very strong non linear datasets. 
 * Incremental PCA: This will be a good choice if you have large dataset that cannot fit the meomery 
 * Randomized PCA: This can be used to decrease the computation time as they find an approximation of the first d components.
@@ -79,7 +78,7 @@ Answer:
 
 Answer:
 
-
+In genral the dimensionality reduction algorithm will work well if it reduce the dimension and in the same time did not loss any important informatino. This can be measured in two ways depending on the algorithm. 
 
 8. Does it make any sense to chain two different dimensionality reduction algorithms?
 
