@@ -83,7 +83,7 @@ In genral the dimensionality reduction algorithm will work well if it reduce the
 8. Does it make any sense to chain two different dimensionality reduction algorithms?
 
 Answer:
-
+Yes, For example we can use PCA for first remove large number of uneeded usless dimension then use LLE to remove more dimension. This will be similar to use LLE but in fraction of time.  
 
 9. Load the MNIST dataset (introduced in Chapter 3) and split it into a training set and a test set (take the first 60,000 instances for training, and the remaining
 10,000 for testing). Train a Random Forest classifier on the dataset and time how long it takes, then evaluate the resulting model on the test set. Next, use PCA to
