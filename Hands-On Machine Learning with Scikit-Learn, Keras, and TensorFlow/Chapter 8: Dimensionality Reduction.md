@@ -78,7 +78,7 @@ Answer:
 
 Answer:
 
-In genral the dimensionality reduction algorithm will work well if it reduce the dimension and in the same time did not loss any important informatino. This can be measured in two ways depending on the algorithm. 
+In genral the dimensionality reduction algorithm will work well if it reduce the dimension and in the same time did not loss any important informatino. This can be measured in two ways depending on the algorithm. If the algorithm can reverse the data then we can measure the distance between the reversed data set and the orignal dataset. If it can not then another method will be by using an predictive algorithm and measure the perfomrance of the model before and after dimensionality reduction.
 
 8. Does it make any sense to chain two different dimensionality reduction algorithms?
 
