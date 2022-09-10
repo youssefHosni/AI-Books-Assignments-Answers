@@ -63,11 +63,17 @@ Yes PCA can be used to reduce the dimension of a highly nonlinear datasets howev
 5. Suppose you perform PCA on a 1,000-dimensional dataset, setting the explained variance ratio to 95%. How many dimensions will the resulting dataset have?
 
 Answer:
+It depends on the dataset itself.
 
 
 6. In what cases would you use vanilla PCA, Incremental PCA, Randomized PCA, or Kernel PCA?
 
 Answer:
+
+* vanilla PCA: The tradional PCA which is used if the data fit in the meomery and not very strong non linear datasets. 
+* Incremental PCA: This will be a good choice if you have large dataset that cannot fit the meomery 
+* Randomized PCA: This can be used to decrease the computation time as they find an approximation of the first d components.
+* Kernel PCA: It is useful for non linear dataset
 
 7. How can you evaluate the performance of a dimensionality reduction algorithm on your dataset?
 
