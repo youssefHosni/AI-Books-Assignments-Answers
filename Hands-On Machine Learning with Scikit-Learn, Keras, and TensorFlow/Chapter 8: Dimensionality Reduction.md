@@ -58,8 +58,7 @@ It depends on the data itself and the way you applied the dimensionality reducti
 4. Can PCA be used to reduce the dimensionality of a highly nonlinear dataset?
 
 Answer:
-Yes using kernel PCA 
-
+Yes PCA can be used to reduce the dimension of a highly nonlinear datasets however if they are for example swiss roll dataset it will lead to losing alot of information since your goal in this case should be unroll it not squashing it. 
 
 5. Suppose you perform PCA on a 1,000-dimensional dataset, setting the explained variance ratio to 95%. How many dimensions will the resulting dataset have?
 
